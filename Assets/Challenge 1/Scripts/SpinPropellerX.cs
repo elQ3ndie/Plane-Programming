@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RotatePropeller : MonoBehaviour
+public class SpinPropellerX : MonoBehaviour
 {
     public float rotationSpeed = 5000;
     // Start is called before the first frame update
